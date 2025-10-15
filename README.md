@@ -1,6 +1,5 @@
-# da-43-portafolio
-Portafolio del curso de Data Analýtics
+# Análisis exploratorio de datos (Spring 3)
 
-Autor: Julián
-Curso: Tripleten cohort 43 DA
+Limpieza, transformación y visualizaciones con pandas.
+
 
